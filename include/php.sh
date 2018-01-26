@@ -84,6 +84,7 @@ php_preinstall_settings(){
         --with-xmlrpc \
         --with-xsl \
         --without-pear \
+        --disable-fileinfo \
         ${other_options} \
         --enable-bcmath \
         --enable-calendar \

@@ -41,7 +41,7 @@ Installation
 - If your server system: CentOS
 ```bash
 yum -y install wget screen git
-git clone https://github.com/teddysun/lamp.git
+git clone https://github.com/catezi/lamp.git
 cd lamp
 chmod +x *.sh
 screen -S lamp
@@ -50,7 +50,7 @@ screen -S lamp
 - If your server system: Debian/Ubuntu
 ```bash
 apt-get -y install wget screen git
-git clone https://github.com/teddysun/lamp.git
+git clone https://github.com/catezi/lamp.git
 cd lamp
 chmod +x *.sh
 screen -S lamp
